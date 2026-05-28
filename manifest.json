@@ -3,5 +3,6 @@
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
 	"author": "@rgormley",
-	"authorUrl": "https://github.com/rgormley"
+	"authorUrl": "https://github.com/rgormley",
+	"modes": ["dark"]
 }
