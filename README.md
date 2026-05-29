@@ -1,4 +1,4 @@
-# Obsidian GitHub Theme
+# GitHub Dark Dimmed Theme
 
 Based on [Obsidian GitHub Theme](https://github.com/krios2146/obsidian-theme-github) by [krios2146](https://github.com/krios2146).
 
