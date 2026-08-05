@@ -697,9 +697,9 @@ body {
     --mono-rgb-0: 0, 0, 0;
     --mono-rgb-100: 255, 255, 255;
     --rgb-hover: 177, 186, 196;
-    --color-red-rgb: 229, 83, 75;
+    --color-red-rgb: rgb(229, 83, 75);
     --color-red: #e5534b;
-    --color-green-rgb: 87, 171, 90;
+    --color-green-rgb: rgb(87, 171, 90);
     --color-green: #57ab5a;
     --color-orange: #e0823d;
     --color-yellow: #daaa3f;
